@@ -1,0 +1,12 @@
+#Project 4 Popularity Prediction on Twitter
+
+##problem1
+prob1.py file calculate the average no. of tweets per hour, average no. of followers of users postingthe tweets and the average no. of retweets for each hashtag. The plot of "number of tweets in hour" over time for #SuperBowl and #NFL is also shown here. Directly run this file and the above results would be achieved. 
+
+##problem2 
+prob2.py file fit a linear regression model using 5 features to predict number of tweets in the next hour, with features extracted from tweet data in the previous hour. Directly run and the results of parameters, standard errors, t_test value, p values, t values of predict data and mean absolute error between actual and predict datas.
+
+##problem3
+prob3.py file run all the features for all the hashtags and this would have result of top 3 features. All of the prob3_hashtag.py files would run the features of the features for each hashtag seperately.
+
+
